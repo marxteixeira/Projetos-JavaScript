@@ -1,2 +1,2 @@
 # projetos-javascript
- projetos desenvolvidos durante o curso de JavaScript by Curso em Vídeo.
+ Projetos desenvolvidos durante o curso de **JavaScript** by *Curso em Vídeo*.
